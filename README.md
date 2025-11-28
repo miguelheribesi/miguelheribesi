@@ -18,18 +18,12 @@
   </a>
 </p>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 ---
 
 ## 👨‍💻 Sobre Mim
 
 <p align="center">
-  <i>✨ "Transformando código em soluções criativas" ✨</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=600&lines=✨+Transformando+código+em+soluções+criativas+✨&repeat=false">
 </p>
 
 Sou estudante de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Tenho interesse em **Análise de Dados**, **Programação** e **Automação de Processos**.
@@ -69,7 +63,7 @@ Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web
 
 <div align="center">
   
-  **Estou sempre aberto a novas conexões e oportunidades para aprender e colaborar!** ✨
+  **🔥 Estou sempre aberto a novas conexões e oportunidades para aprender e colaborar!**
 
 </div>
 
