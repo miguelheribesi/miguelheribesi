@@ -6,6 +6,11 @@
   <b>Estudante de Ciência da Computação | Análise de Dados & Desenvolvimento Web</b>
 </p>
 
+<!-- Efeito de partículas flutuantes -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=🚀+Bem-vindo+ao+meu+perfil!;💻+Apaixonado+por+tecnologia;📊+Focado+em+Análise+de+Dados;🌐+Desenvolvimento+Web&repeat=false">
+</div>
+
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -55,3 +60,14 @@ Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+<!-- Linha de código animada -->
+<div align="center">
+  
+  ```js
+  while(alive) {
+    eat();
+    sleep();
+    code();
+    learn();
+  }
