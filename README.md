@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>🐱‍💻 Miguel Heriberto Silva</b>
+  <b>👨‍💻 Miguel Heriberto Silva</b>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=2E86AB&size=25&center=true&vCenter=true&width=500&height=70&lines=Estudante+de+Ciência+da+Computação;Análise+de+Dados+💻;Desenvolvimento+Web+🌐;Sempre+aprendendo+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=FF0000&size=20&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Análise+de+Dados+🎮;Desenvolvimento+Web+🏆;Sempre+aprendendo+⭐">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## 👨‍💻 Sobre Mim
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&size=20&center=true&vCenter=true&width=600&lines=✨+Transformando+código+em+soluções+criativas+✨&repeat=false">
+  <b>✨ Transformando código em soluções criativas ✨</b>
 </p>
 
 Sou estudante de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Tenho interesse em **Análise de Dados**, **Programação** e **Automação de Processos**.
