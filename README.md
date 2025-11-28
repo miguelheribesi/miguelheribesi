@@ -6,9 +6,9 @@
   <b>Estudante de Ciência da Computação | Análise de Dados & Desenvolvimento Web</b>
 </p>
 
-<!-- Efeito de partículas flutuantes -->
+<!-- Apenas Pac-Man com "Bem-vindo ao meu perfil" -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=🚀+Bem-vindo+ao+meu+perfil!;💻+Apaixonado+por+tecnologia;📊+Focado+em+Análise+de+Dados;🌐+Desenvolvimento+Web&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!&repeat=true">
 </div>
 
 ---
@@ -19,32 +19,43 @@ Sou estudante de **Ciência da Computação** e **Análise e Desenvolvimento de 
 
 Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web e análise de dados, sempre buscando aprender novas tecnologias e me desafiar.
 
-## 🛠️ Tecnologias que Estudo
+## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 **Linguagens**
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
 
 ### 🌐 **Desenvolvimento Web**
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
 
-### 📊 **Dados**
-<div align="center">
-  
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-</div>
+### 📊 **Análise de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white">
+</p>
+
+### 🔧 **Ferramentas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Home_Agent-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/Intercom-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/Helpshift-000000?style=flat-square">
+</p>
+
+### 🔒 **Conhecimentos**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-2E86AB?style=flat-square">
+  <img src="https://img.shields.io/badge/UX_Design-FF6B6B?style=flat-square">
+  <img src="https://img.shields.io/badge/Automação-4ECDC4?style=flat-square">
+</p>
 
 ---
 
@@ -60,4 +71,3 @@ Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
