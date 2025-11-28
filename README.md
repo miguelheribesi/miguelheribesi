@@ -61,13 +61,3 @@ Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web
   </a>
 </p>
 
-<!-- Linha de código animada -->
-<div align="center">
-  
-  ```js
-  while(alive) {
-    eat();
-    sleep();
-    code();
-    learn();
-  }
