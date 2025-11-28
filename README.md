@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=FF0000&size=20&center=true&vCenter=true&width=600&lines=Estudante+de+Ciência+da+Computação;Análise+de+Dados+🎮;Desenvolvimento+Web+🏆;Sempre+aprendendo+⭐">
+  <b>Estudante de Ciência da Computação | Análise de Dados & Desenvolvimento Web</b>
 </p>
 
 <p align="center">
@@ -21,10 +21,6 @@
 ---
 
 ## 👨‍💻 Sobre Mim
-
-<p align="center">
-  <b>✨ Transformando código em soluções criativas ✨</b>
-</p>
 
 Sou estudante de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Tenho interesse em **Análise de Dados**, **Programação** e **Automação de Processos**.
 
@@ -63,7 +59,7 @@ Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web
 
 <div align="center">
   
-  **🔥 Estou sempre aberto a novas conexões e oportunidades para aprender e colaborar!**
+  **Estou sempre aberto a novas conexões e oportunidades para aprender e colaborar!**
 
 </div>
 
