@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>Miguel Heriberto Silva</b>
+  <b>🐱‍💻 Miguel Heriberto Silva</b>
 </h1>
 
 <p align="center">
-  <b>Estudante de Ciência da Computação | Análise de Dados</b>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=2E86AB&size=25&center=true&vCenter=true&width=500&height=70&lines=Estudante+de+Ciência+da+Computação;Análise+de+Dados+💻;Desenvolvimento+Web+🌐;Sempre+aprendendo+🚀">
 </p>
 
 <p align="center">
@@ -13,11 +13,24 @@
   <a href="mailto:miguelheribesi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://wa.me/5511994874500" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
+
+<p align="center">
+  <i>✨ "Transformando código em soluções criativas" ✨</i>
+</p>
 
 Sou estudante de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Tenho interesse em **Análise de Dados**, **Programação** e **Automação de Processos**.
 
@@ -26,23 +39,45 @@ Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web
 ## 🛠️ Tecnologias que Estudo
 
 ### 💻 **Linguagens**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+</div>
 
 ### 🌐 **Desenvolvimento Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+</div>
 
 ### 📊 **Dados**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+</div>
 
 ---
 
 ## 📫 Vamos Conversar?
 
-**Estou sempre aberto a novas conexões e oportunidades para aprender e colaborar!**
+<div align="center">
+  
+  **Estou sempre aberto a novas conexões e oportunidades para aprender e colaborar!** ✨
 
-- 📧 **Email:** miguelheribesi@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/miguel-heriberto-981b1225b](https://www.linkedin.com/in/miguel-heriberto-981b1225b)
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-heriberto-981b1225b" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:miguelheribesi@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Enviar_Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
