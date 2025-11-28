@@ -17,6 +17,12 @@
 
 ---
 
+## 👨‍💻 Sobre Mim
+
+Sou estudante de **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Tenho interesse em **Análise de Dados**, **Programação** e **Automação de Processos**.
+
+Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento web e análise de dados, sempre buscando aprender novas tecnologias e me desafiar.
+
 ## 🛠️ Tecnologias que Estudo
 
 ### 💻 **Linguagens**
